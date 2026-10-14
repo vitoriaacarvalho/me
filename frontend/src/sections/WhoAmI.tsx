@@ -27,9 +27,6 @@ export function WhoAmI() {
         <span className="pill">
           <span className="accent">{projects.length}</span> projects · compiling
         </span>
-        <span className="pill">
-          <span className="accent">∞</span> curiosity
-        </span>
       </div>
 
       <Terminal title="zsh — about-me">
