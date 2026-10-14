@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // Content JSON lives one level up, in ../content
   server: { fs: { allow: ['.', '../content'] } },
+  base: '/me/',
 })
