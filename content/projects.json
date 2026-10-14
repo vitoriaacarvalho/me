@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "title": "Living Stage",
+            "short-description": "a coreography placing helper for dance shows.",
+            "link": "https://github.com/vitoriaacarvalho/living-stage",
+            "tech": ["[typescript]", "[react]", "[node]"],
+            "status": "in progress",
+            "progress": 0
+        }
+    ]
+}

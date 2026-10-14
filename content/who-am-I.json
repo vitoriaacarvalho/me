@@ -1,0 +1,13 @@
+{
+  "name": "Vitória Carvalho",
+  "role": "Full Stack Software Developer",
+  "bio": "I'm a developer passionate about building and crafting real-world very cool projects :). I'm an advocate for clean code and architecture. I like bringing things to life and seeing them being useful! I've got 4+ years of experience in full stack web development. My main stack is typescript (react and node.js) but I'm a very curious person and would love to get to know a few more stacks in the future.",
+  "stack": ["typescript", "react", "node.js", "next.js", "nestjs", "GCP", "AWS", "MySQL", "postgres", "AI assisted coding", "claude code"],
+  "location": "João Pessoa, Brazil",
+  "contact": {
+    "email": "seu-email@example.com",
+    "github": "https://github.com/seu-usuario",
+    "linkedin": "https://www.linkedin.com/in/seu-perfil"
+  }
+}
+ 

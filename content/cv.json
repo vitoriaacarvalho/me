@@ -1,0 +1,122 @@
+{
+  "name": "Vitória Carvalho",
+  "title": "Software Engineer",
+  "email": "vitoriaprogramadora@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/vitoria-de-barros",
+  "location": "Paraíba, Brazil",
+  "summary": [
+    "Full-Stack Software engineer with 4+ years of experience designing, building, and implementing web applications in Node.js, Typescript, React, NestJS, Remix, NextJS, Java, CSS3, and HTML.",
+    "Experience understanding business needs and implementing systems that actually solve the problem as fast and reliably as possible.",
+    "Efficient communication skills focused on teamwork, knowledge sharing, and optimizing development processes."
+  ],
+  "skills": {
+    "languages": ["Typescript", "React", "Node.js", "HTML", "CSS3", "SQL"],
+    "technologies": [
+      "MySQL",
+      "Postgres",
+      "AWS",
+      "Git",
+      "GCP (Google Cloud)",
+      "Firebase",
+      "MongoDB",
+      "ReactJS",
+      "NextJS",
+      "REST",
+      "NestJS",
+      "Docker",
+      "Remix",
+      "Jenkins",
+      "Claude Code"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "SOAP Health",
+      "workMode": "remote for USA",
+      "start": "2024-12",
+      "end": "present",
+      "description": "SOAP is building a virtual doctor with artificial intelligence that is aimed at collecting data from patients and providing accurate information to doctors. The mission is to save millions of lives by reducing the number of misdiagnoses.",
+      "highlights": [
+        "Part of the development of the Medome App, an application that processes all data from patients and turns it into information that is precise to help doctors make better decisions and helps with disease diagnosis and prevention. I develop features and work on refactors that focus on code quality, performance and security.",
+        "Recognized on the team for consistently delivering the highest volume of tasks in monthly reports, driven by clean code practices and a well-organized development workflow.",
+        "I actively contribute to the bug-fix team, ensuring fast turnaround while staying aligned with business rules and technical standards."
+      ],
+      "technologies": [
+        "Node.js",
+        "Typescript",
+        "React",
+        "GCP",
+        "MySQL",
+        "Git",
+        "Firebase",
+        "Remix",
+        "REST",
+        "Postgres",
+        "NextJS",
+        "Claude Code"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Flow Software",
+      "workMode": "remote for AUS",
+      "start": "2023-02",
+      "end": "2024-12",
+      "description": "A software consulting company that develops an ETL software called Statelake to help companies achieve digital transformation and operational efficiency.",
+      "highlights": [
+        "Designed and led \"BlackBox,\" a custom CI/CD pipeline tool letting developers and QAs select a branch, trigger automated black-box tests, and auto-merge to staging on success — reducing manual work and improving reliability on a critical legacy system.",
+        "Took ownership of internal management tools and client-facing platforms left outdated for years, updating dependencies and refactoring extensively to restore maintainability.",
+        "Mentored junior developers, providing technical guidance, code reviews, and support in software development best practices.",
+        "Contributed to the primary legacy software developed in Delphi, handling tasks such as maintenance, bug fixing, refactoring, and code reviews, all while adhering to SOLID principles and clean code practices."
+      ],
+      "technologies": [
+        "Postgres",
+        "MySQL",
+        "Typescript",
+        "Java",
+        "Spring Boot",
+        "Git",
+        "Node.js",
+        "React",
+        "Angular",
+        "Jenkins",
+        "REST",
+        "Docker",
+        "AWS",
+        "Swagger"
+      ]
+    },
+    {
+      "role": "Data Engineering Intern",
+      "company": "Júpiter Tecnologias",
+      "workMode": "remote for BR",
+      "start": "2022-10",
+      "end": "2024-02",
+      "highlights": [
+        "Acted in Business Intelligence consulting projects, developing ETL pipelines (Airbyte, SQL, Pentaho), creating and maintaining Power BI dashboards, and aligning data solutions with business needs."
+      ],
+      "technologies": []
+    },
+    {
+      "role": "Software Engineering Intern",
+      "company": "Unipê Software Factory",
+      "workMode": "remote for BR",
+      "start": "2022-03",
+      "end": "2022-08",
+      "highlights": [
+        "Contributed to a logistics mapping system for the Paraíba Military Police, implementing backend features with Django, GeoDjango, and PostgreSQL, enabling real-time monitoring and distance calculations with CI/CD integration."
+      ],
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "João Pessoa University Center (Unipê)",
+      "degree": "AAS",
+      "field": "Systems Analysis and Development",
+      "start": "2022",
+      "end": "2024"
+    }
+  ]
+}
