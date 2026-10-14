@@ -28,7 +28,7 @@ export const links = {
   email: 'vitoriaprogramadora@gmail.com',
   github: 'vitoriaacarvalho',
   linkedin: 'vitoria-de-barros',
-  cvPdf: '/vitoria-carvalho-cv.pdf',
+  cvPdf: `${import.meta.env.BASE_URL}vitoria-carvalho-cv.pdf`,
 }
 
 export const posts: Post[] = []
