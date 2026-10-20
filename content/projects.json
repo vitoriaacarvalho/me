@@ -1,12 +1,20 @@
 {
     "projects": [
         {
+            "title": "Currency CLI",
+            "short-description": "A small command-line tool that shows the current exchange rate of USD or EUR to BRL, using the AwesomeAPI. I made this because I was tired of checking USD values lots of times everyday on Google. Now I just type 'currency USD' a few times a day :).",
+            "link": "https://github.com/vitoriaacarvalho/cmd-exchange-monitor-usd-and-eur",
+            "tech": ["[typescript]", "[node]"],
+            "status": "done",
+            "progress": 100
+        },
+        {
             "title": "Living Stage",
             "short-description": "a coreography placing helper for dance shows.",
             "link": "https://github.com/vitoriaacarvalho/living-stage",
             "tech": ["[typescript]", "[react]", "[node]"],
             "status": "in progress",
-            "progress": 0
+            "progress": 20
         }
     ]
 }
